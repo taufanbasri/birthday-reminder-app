@@ -37,7 +37,7 @@ To use the Birthday Reminder Application, you'll need the following:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/birthday-reminder-app.git
+   git clone https://github.com/taufanbasri/birthday-reminder-app.git
    cd birthday-reminder-app
    ```
 
